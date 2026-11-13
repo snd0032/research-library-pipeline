@@ -1,0 +1,5 @@
+# Airflow itself is installed separately with its constraints file (see README)
+pymupdf4llm>=0.0.17
+openai>=1.40
+requests>=2.31
+pendulum>=3.0
